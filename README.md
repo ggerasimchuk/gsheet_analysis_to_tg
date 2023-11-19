@@ -1,5 +1,5 @@
 # gsheet_analysis_to_tg
-A script that takes data from Google tables and sends a report to telegram.
+A script that takes data from Google tables, analyses it and sends a report with charts to telegram.
 
 Used data:
 
